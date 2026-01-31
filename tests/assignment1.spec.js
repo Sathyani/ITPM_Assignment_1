@@ -122,9 +122,14 @@ const cases = [
     expected: "අද ලෝකයේ තාක්ෂණය මිනිසුන්ගේ ජීවිතයට විශාල බලපෑමක් සිදු කරමින් ඇත. ජංගම දුරකථන, අන්තර්ජාලය සහ ඩිජිටල් යෙදුම් භාවිතයෙන් අධ්‍යාපනය, ව්‍යාපාර සහ සන්නිවේදනය වඩා පහසු සහ වේගවත් වී ඇත. විශ්වවිද්‍යාල සිසුන්ට මාර්ගගත ඉගෙනුම් පහසුකම් හරහා දැනුම පුළුල් කරගැනීමට හැකි වී ඇත. කෙසේ වෙතත්, තාක්ෂණය අධික ලෙස භාවිතා කිරීම මගින් කාලය අපරාධ වීම සහ සමාජ සම්බන්ධතා අඩුවීම වැනි ගැටළු ද ඇති විය හැක.",
   },
   {
-    id: "Pos_UI_001",
+    id: "Pos_Fun_025",
     input: "Login button eka click kaLa vita error message nopenviya yuthu athara, dashboard pituva nivaeradhiva load viya yuthuya",
     expected: "Login button එක click කළ විට error message නොපෙන්විය යුතු අතර, dashboard පිටුව නිවැරදිව load විය යුතුය",
+  },
+  {
+    id: "Neg_UI_001",
+    input: "machan",
+    expected: "මචං",
   },
   {
     id: "Neg_Fun_001",
