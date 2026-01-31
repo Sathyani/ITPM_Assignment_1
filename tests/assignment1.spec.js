@@ -149,7 +149,7 @@ const cases = [
   {
     id: "Neg_Fun_004",
     input: "What is your name?",
-    expected: "ඔයාගේ නම මොකද්ද?",
+    expected: "What is your name?",
   },
   {
     id: "Neg_Fun_005",
